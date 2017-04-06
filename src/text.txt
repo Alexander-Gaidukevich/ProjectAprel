@@ -1,0 +1,6 @@
+name1 poroda1 10 black blue
+name2 poroda2 4 red blue
+name3 poroda3 6 lfack blue
+name4 poroda4 2 alack nlue
+name5 poroda5 12 black vlue
+name6 poroda6 9 black tlue
